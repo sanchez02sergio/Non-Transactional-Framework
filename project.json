@@ -1,6 +1,6 @@
 {
-  "name": "CFGINontransactionalFrameWork",
-  "description": "CFGI Nontransactional Robot Framework",
+  "name": "Framework No Transaccional Fourier Analytics",
+  "description": "Nontransactional Robot Framework by Fourier Analytics",
   "main": "Main.xaml",
   "dependencies": {
     "Microsoft.Activities": "1.0.1",
